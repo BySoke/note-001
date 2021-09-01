@@ -25,8 +25,6 @@
   $("#select").multipleSelect('setSelects', '[' + arrYear.toString() + ']');
   ```
 
-  
-
 - 其他取值、刷新option等方法见官网文档
 
 ## 2.jquery.nicescroll-滚动条
